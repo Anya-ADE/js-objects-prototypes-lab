@@ -1,5 +1,5 @@
 /*Object Literals*/
-
+/*Creating and Modifying Object Literals*/
 const student = {
     firstName: "Anya",
     lastName: "Andrews",
