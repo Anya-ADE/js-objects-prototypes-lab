@@ -1,4 +1,6 @@
 /*Function Declaration*/
+
+/*Function to calculate the area*/
 function calculateArea(length, width) {
     return length * width;
 }
@@ -10,6 +12,8 @@ console.log(calculateArea(6.5, 2)); // Output: 13
 console.log(calculateArea(1.75, 4));  // Output: 7
 
 /*Function Expression*/
+
+/*Function to calculate the perimeter*/
 const calculatePerimeter = function(length, width) {
     return 2 * (length + width);
 };
